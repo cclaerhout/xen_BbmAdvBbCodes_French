@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Français - Source" date_format="j F Y" time_format="H:i" decimal_point="." thousands_separator="" language_code="fr-FR" text_direction="LTR" addon_id="Sedo_AdvBBcodeBar">
+  <phrase title="AdvBBcodeBar_Options_Auto" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Auto]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Center" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Centre]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Left" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Gauche]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Line1" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Ligne 1]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Line2" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Ligne 2]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Line3" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Ligne 3]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Line4" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Ligne 4]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Line5" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Ligne 5]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Line6" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Ligne 6]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Line7" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Ligne 7]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_No" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Non]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Percentage" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Pourcentage]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Pixel" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Pixel]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Right" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Droite]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_WithIntegration" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Avec intégration]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_WithoutIntegration" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Sans intégration]]></phrase>
+  <phrase title="AdvBBcodeBar_Options_Yes" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Oui]]></phrase>
+  <phrase title="AdvBBcodeBar_template_enc_width" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Largeur :]]></phrase>
+  <phrase title="AdvCustom_test" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string="3.0"><![CDATA[Ceci est un bouton test de Bb Code]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_acc_tabs_slider" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Accordéons, onglés et visionneuse]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_accordion" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="19" version_string="3.3.1"><![CDATA[Gestionnaire de diapositives]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_article" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Insérer un article]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_bimg_new" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="5" version_string="3.1"><![CDATA[Insérer une image avec des options]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_bimg_new_id" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="12" version_string="3.1.3"><![CDATA[Id :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_encadre" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="5" version_string="3.1"><![CDATA[Insérer un bloc de texte flottant]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_fieldset" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Insérer un encadré avec un titre personnalisé]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_gview" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Visionneuse Google Docs (PDF,PPT,XLS,DOC...)]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_highlight" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string="3.0"><![CDATA[Surligneur de balises]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_justif" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Jutifier le texte]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_latex" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Contenu mathématique Latex]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_picasa" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Insérer une visionneuse Picasa]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_premium" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Bb Code Premium]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_premium2" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Bb Code Premium personnalisé]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_private" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Bb Code privé]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_private2" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Bb Code privé personnalisé]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_button_spoiler" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Insérer un spoileur]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_fieldset_title" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Encadré]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_php_picasa_filesunvailable" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="6" version_string="3.2"><![CDATA[Les fichiers du Bb Code Picasa ne sont plus sur le serveur, veuillez contacter un administrateur.]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_spoilerbb_noscript" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[(Déplacer le curseur de votre souris sur la zone du spoileur pour en dévoiler le contenu)]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_addslide" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Nouvelle diapo]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_align" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Align. bloc :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_align_bcenter" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Normal centre]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_align_bleft" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Normal gauche]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_align_bright" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Normal droite]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_align_fleft" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Flottant gauche]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_align_fright" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Flottant droite]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_blockwidth" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Largeur bloc : ]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_height" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Hauteur :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_open" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Ouvert ?]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_slidesheight" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Hauteur diapo :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_accordion_title" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Titre :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_article_optional" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[(Optionnel)]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_article_panel" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Gestionnaire d'article]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_article_src" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Source]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_article_typeyourtext" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Taper votre article ici]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_auto" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="6" version_string="3.2"><![CDATA[Auto]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_caption_bottomin" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Intérieur bas]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_caption_bottomout" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Extérieur bas]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_caption_center" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Centre]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_caption_left" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Gauche]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_caption_right" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Droite]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_caption_topin" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Intérieur haut]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_caption_topout" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Extérieur haut]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_caption_trigger" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Insérer une légende en cliquant ici]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_caption_type" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Tapez votre légende ici :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_diff_horizontal" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[Horizontal]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_diff_pos" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[Position du curseur]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_diff_vertical" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[Vertical]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_extra_disable_lightbox" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[Sans visionneuse]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_extra_link" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[Lien externe]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_extra_url" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[Lien (ou id du fichier) de comparaison d'image]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_float_left" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Flottant gauche]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_float_normal" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Normal gauche]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_float_normal_center" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Normal centre]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_float_normal_right" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Normal droite]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_float_right" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Flottant droite]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_floatinfo" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Ce bloc image est un élément flottant, il doit être placé avant le bloc texte.]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_information" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Information :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_panel" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Gestionnaire d'image personnalisée]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_resize" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Redimensionner aux standards du forum ?]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_textalign" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Align. texte :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_url" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Lien :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_bimg_width" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[Largeur :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_enc_fleft" addon_id="Sedo_AdvBBcodeBar" version_id="3" version_string="1.2"><![CDATA[Flottant gauche]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_enc_fright" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Flottant droite]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_enc_info" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Ce bloc texte est un élément flottant, il doit être placé avant le bloc texte.]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_enc_information" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Information :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_enc_panel" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Gestionnaire de bloc de texte]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_enc_skin1" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Thème 1]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_enc_skin2" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Thème 2]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_enc_title" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Titre :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_enc_typeyourtext" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Tapez votre texte ici]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_enc_width" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Largeur :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_fieldset_align_center" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Align. centre]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_fieldset_align_left" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Align. gauche]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_fieldset_align_right" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Align. droite]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_fieldset_panel" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Gestionnaire d'encadré]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_fieldset_title" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Titre :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_fieldset_typeyourtext" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Taper votre texte ici]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_fieldset_width" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Largeur :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_fulldisplay" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Plein format]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_align" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Align. bloc :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_align_bcenter" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Normal centre]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_align_bleft" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Normal gauche]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_align_bright" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Normal droite]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_align_fleft" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Flottant gauche]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_align_fright" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Flottant droite]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_height" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Hauteur :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_command" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Commande]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_desc_addition" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Opérateur d'addition]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_desc_brackets" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Parenthèses]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_desc_carriage" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Retour chariot]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_desc_division" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Opérateur de division]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_desc_fontsize" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Taille du texte de 1 (petit) à 7 (grand)]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_desc_frac1" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Opérateur de fraction (exemple 1)]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_desc_frac2" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Opérateur de fraction operator (exemple 2)]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_desc_multiplication" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Opérateur multiplication]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_desc_substraction" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Opérateur soustraction]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_description" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Description]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_display" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Affichage]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_example" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Exemple]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_mimetexmanual" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Manuel Mimetex]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_mimetexsymbols" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Symboles Mimetex]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_help_title" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Commandes basiques (cliquez ici)]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_panel" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Gestionnaire Latex]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_title" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Titre :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_typeyourlatexcode" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Tapez votre code latex ici]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_latex_width" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Largeur :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_no_attachment" addon_id="Sedo_AdvBBcodeBar" version_id="25" version_string="3.4.0"><![CDATA[Aucune fichier joint trouvé]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_no_image_attachment" addon_id="Sedo_AdvBBcodeBar" version_id="25" version_string="3.4.0"><![CDATA[Aucune image jointe trouvée]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_picasa_height" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Hauteur :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_picasa_interval" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Intervalle :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_picasa_panel" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Gestionnaire de visionneuse Picasa]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_picasa_seconds" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[seconde(s)]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_picasa_url" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Url Picasa :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_picasa_width" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Largeur :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_slider_full" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Plein format]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_autoclick" addon_id="Sedo_AdvBBcodeBar" version_id="28" version_string="3.5.0 - step1"><![CDATA[Auto-clic]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_autoplay" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Lecture auto]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_cmd" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Lecteur]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_id_mode" addon_id="Sedo_AdvBBcodeBar" version_id="25" version_string="3.4.0"><![CDATA[ID]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_interval" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Intervalle]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_layout" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Mise en page]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_layout_inside" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Intérieur]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_layout_outside" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Extérieur]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_ms" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[ms]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_tabs_bullet" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Points]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_tabs_numeric" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Numeriques]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_tabs_style" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Onglets]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_sliders_title_position" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Position du titre]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_slides_accordion" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Accordéon]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_slides_panel" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Gestionnaire de diapositives]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_slides_slider" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Visionneuse]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_template_slides_tabs" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Onglets]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_article" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Article :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_clicktoexpand" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Taille originale]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_display" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Afficher]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_encadre" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Bloc texte :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_equation" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Équation :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_gview" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Visionneuse de document]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_hide" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Masquer]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_notmember" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="9" version_string="3.1 Final"><![CDATA[Navré, vous n'avez pas accès à l'image]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_slide" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="5" version_string="3.1"><![CDATA[Diapo ]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_source" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string="3.0"><![CDATA[Source :]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_spoiler" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="0" version_string=""><![CDATA[Spoileur]]></phrase>
+  <phrase title="Sedo_AdvBBcodeBar_text_tab" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Onglet ]]></phrase>
+  <phrase title="option_AdvBBcodeBar_JsMiu" addon_id="Sedo_AdvBBcodeBar" version_id="15" version_string="3.2.0"><![CDATA[Chargé les fichiers JavaScript de MarkItUp ?]]></phrase>
+  <phrase title="option_AdvBBcodeBar_JsMiu_explain" addon_id="Sedo_AdvBBcodeBar" version_id="15" version_string="3.2.0"><![CDATA[This option will load on pages with the editor the main MarkItUp Javascript file (very light: 2ko). If you don't use the MarkItUp integrator for XenForo, you can switch this option to "no".]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_defaultwidth" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[Accordion BBcode] Default Width]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_defaultwidth_explain" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Enter default width for Accordion bbcode. <b>Unit is defined below</b>.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_defaultwidth_unit" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[Accordion BBcode] Default Width Unit]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_defaultwidth_unit_explain" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_maxwidth" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[Accordion BBcode] Max Width in Pixels]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_maxwidth_explain" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Enter max width for Accordion bbcode. <b>Unit is pixel</b>.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_slides_easing_duration" addon_id="Sedo_AdvBBcodeBar" version_id="13" version_string="3.1.5"><![CDATA[[Accordion BBcode - Slides] Easing duration]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_slides_easing_duration_explain" addon_id="Sedo_AdvBBcodeBar" version_id="14" version_string="3.1.5"><![CDATA[Easing effect duration. Default value: <b>400</b> (milliseconds)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_slides_easing_effect" addon_id="Sedo_AdvBBcodeBar" version_id="13" version_string="3.1.5"><![CDATA[[Accordion BBcode - Slides] Easing effect]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_slides_easing_effect_explain" addon_id="Sedo_AdvBBcodeBar" version_id="13" version_string="3.1.5"><![CDATA[Choose which easing effect to use with the slides. Here's a <a href="http://www.easings.net" target="_blank">website</a> which might help you to choose . Default value: <b>easeOutQuad</b>.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_slides_maxheight" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[Accordion BBcode - Slides] Max Height]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_slides_maxheight_explain" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Slide Max Height. <b>Unit is pixel</b>. Do not enter "px" !]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_slides_rawtitles" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[Accordion BBcode - Slides] Raw Menu Titles]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_slides_rawtitles_explain" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Do you want Accordion Menu Titles to be displayed without any font styles? If this option is set to 'no', just use standard bbcodes (bold, italic, etc.) to customize the Title.<br /><br />
+<span style="text-decoration:underline">Example:</span><br />
+[accordion]<br />
+{slide=<b>[SIZE=6]Title 1[/SIZE]</b>}Slide 1 Content{/slide}<br />
+{slide=<b>Title 2</b>}Slide 2 Content{/slide}<br />
+[/accordion]<br /><br />
+If the above option is set on 'no', the title of slide 1 will be displayed with a bigger font. If the option is set on 'yes', then only the raw title (without font styles) will be displayed.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_slides_titles_defaultalign" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[Accordion BBcode - Slides] Menu Titles Default Align]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_slides_titles_defaultalign_explain" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Default Align for Slides Menu Titles. This setting can be overridden by user in Slide 'slave tag' options. Example : {slide=Title|<b>right</b>}Content{/slide}.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_tag" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[[Accordion BBcode] Tag]]></phrase>
+  <phrase title="option_AdvBBcodeBar_accordion_tag_explain" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[With TinyMCE Quattro the accordion, tabs and slider Bb Codes are using a same orphan button. If you have modified the tags of these Bb Codes you also need to modify the tags here. Default: <b>accordion</b>.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_bimg_caption_fallback" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[[Bimg] Caption fallback?]]></phrase>
+  <phrase title="option_AdvBBcodeBar_bimg_caption_fallback_explain" addon_id="Sedo_AdvBBcodeBar" version_id="34" version_string="3.6.1"><![CDATA[If the image has no caption, this option will display a fallback caption inviting the reader to click on the picture to display its full dimensions. P.S: the caption fallback is not available with some settings.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_bimg_moveev_load" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[[Bimg] Comparaison tool - Move event load]]></phrase>
+  <phrase title="option_AdvBBcodeBar_bimg_moveev_load_explain" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[This option lets you configure how to load (or not to load) the <a  href="https://github.com/stephband/jquery.event.move" target="_blank">"Move event" script</a> required for the Image comparaison tool provided by the script <a href="http://zurb.com/playground/twentytwenty" target="_blank">Twenty twenty</a>. If you have already integrated it your header, don't load it again.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_bimg_yellowpic" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[[Bimg] Do you want to use the Yellow Picture?]]></phrase>
+  <phrase title="option_AdvBBcodeBar_bimg_yellowpic_explain" addon_id="Sedo_AdvBBcodeBar" version_id="28" version_string="3.5.0 - step1"><![CDATA[<span style="color:orange;font-weight:bolder">Important</span><br />
+With the default XenForo configuration, if a visitor or a member in a forum can't download the forum attachments, it won't be able to see a picture uploaded in that forum. It's logical but this will break your message layout generating an html error because the image is not found.<br /><br /><b> You've got three solutions to fix that:</b> <br />
+1) Give access visitors and members to the attachments. I don't like this.<br />
+2) Use the "Yellow picture option", which will display a yellow picture with a legend warning the user he doesn't have access to the image.<br />
+3) Use this following addon: <a href="http://xenforo.com/community/resources/tinhte-image-attachment-optimization-cdn-support.909/" target="_blank"><b>"Image Attachment Optimization & CDN Support"</b></a> (author: Tinhte). No matter his attachment permission, the user will be able to see the picture. This is the <span style="color:orange;font-weight:bolder">best solution</span> in my opinion.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_debug_devmode" addon_id="Sedo_AdvBBcodeBar" version_id="14" version_string="3.1.5"><![CDATA[[Debug] Developer Mode]]></phrase>
+  <phrase title="option_AdvBBcodeBar_debug_devmode_explain" addon_id="Sedo_AdvBBcodeBar" version_id="14" version_string="3.1.5"><![CDATA[The developer Mode will use the source of the Javascript (unminified).]]></phrase>
+  <phrase title="option_AdvBBcodeBar_encdefault" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[[Text Box BBcode] Default Width Attribute]]></phrase>
+  <phrase title="option_AdvBBcodeBar_encdefault_defaultwidth_unit" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[Text Box BBcode] Default Width Unit]]></phrase>
+  <phrase title="option_AdvBBcodeBar_encdefault_defaultwidth_unit_explain" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Default value: <b>percentage</b>]]></phrase>
+  <phrase title="option_AdvBBcodeBar_encdefault_explain" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Enter the default width that should be used with text box bbcode if user doesn't specify any option or if the given option is above the max width. Unit is <b>defined below</b>. <br />(Default value: 20)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_encmax" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[Text Box BBcode] Max Width Attribute (%)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_encmax_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Enter max width for text box bbcode. Unit is <b>percentage</b>. Do not enter "%" !
+<br />(Default value: 80)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_encmax_px" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[Text Box BBcode] Max Width Attribute (px)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_encmax_px_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Enter max width for text box bbcode. Unit is <b>pixel</b>. Do not enter "px" !
+<br />(Default value: 750)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_fallbackperms" addon_id="Sedo_AdvBBcodeBar" version_id="28" version_string="3.5.0 - step1"><![CDATA[Try to get attachments outside the viewing post?]]></phrase>
+  <phrase title="option_AdvBBcodeBar_fallbackperms_explain" addon_id="Sedo_AdvBBcodeBar" version_id="21" version_string="3.3.3 - Beta"><![CDATA[]]></phrase>
+  <phrase title="option_AdvBBcodeBar_fieldsetdefault" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[[Fieldset BBcode] Default Width Attribute]]></phrase>
+  <phrase title="option_AdvBBcodeBar_fieldsetdefault_explain" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Enter the default width that should be used with fieldset bbcode if user doesn't specify any option or if the given option is above the max width.  Unit is <b>defined below</b>. <br />(Default value: 90)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_fieldsetdefault_width_unit" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[Fieldset] Default Width Unit]]></phrase>
+  <phrase title="option_AdvBBcodeBar_fieldsetdefault_width_unit_explain" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[Default value: <b>percentage</b>]]></phrase>
+  <phrase title="option_AdvBBcodeBar_fieldsetmax" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[[Fieldset BBcode] Max Width Attribute (%)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_fieldsetmax_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Enter max width for the fieldset bbcode. Unit is <b>percentage</b>. Do not enter "%" !<br />(Default value: 100)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_fieldsetmax_px" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[[Fieldset BBcode] Max Width Attribute (px)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_fieldsetmax_px_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Enter max width for the fieldset bbcode. Unit is <b>pixel</b>. Do not precise "px" !
+<br />(Default value: 800)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_gview_height" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[Gview BBcode] Height]]></phrase>
+  <phrase title="option_AdvBBcodeBar_gview_height_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Gview BBcode height can only be set up here (not in bbcode options). <b>Unit is pixel</b>. Do not precise "px" !<br /> (Default value: 780)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_gview_spoilerbox" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[Gview BBcode] Spoiler Wrapped]]></phrase>
+  <phrase title="option_AdvBBcodeBar_gview_spoilerbox_explain" addon_id="Sedo_AdvBBcodeBar" version_id="2" version_string="3.02"><![CDATA[Do you want to wrap the [gview] bbcode result inside the [spoiler] bbcode of your forum? That [spoiler] bbcode must support to have an option to be able to customize its title.<br />
+If you select this option, the width of the [gview] bbcode MUST be in pixels.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_gview_width" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[[Gview BBcode] Width]]></phrase>
+  <phrase title="option_AdvBBcodeBar_gview_width_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Gview BBcode width can only be set up here (not in bbcode options). <b>Unit is defined below</b> 
+<br /> (Default value: 600)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_gview_width_unit" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[[Gview BBcode] Width Unit]]></phrase>
+  <phrase title="option_AdvBBcodeBar_gview_width_unit_explain" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[]]></phrase>
+  <phrase title="option_AdvBBcodeBar_imgdefault" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[[Bimg] Default Width]]></phrase>
+  <phrase title="option_AdvBBcodeBar_imgdefault_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Enter the default width that should be used with image bbcodes if user doesn't specify any option or if the given option is above the max width. Unit is <b>pixel</b>. Do not precise "px" !
+<br />(Default value: 180)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_imgmax" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[[Bimg] Max Width]]></phrase>
+  <phrase title="option_AdvBBcodeBar_imgmax_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Enter max width for images bbcodes. Unit is <b>pixel</b>. Do not enter "px" !
+<br />(Default value: 750)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_defaultwidth" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[[Latex BBcode] Default Width]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_defaultwidth_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Enter the default width that should be used with bbcode bbcode if user doesn't specify any option or if the given option is above the max width.  Unit is <b>defined below</b>. <br />(Default value: 90)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_defaultwidthunit" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[[Latex] Default Width Unit]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_defaultwidthunit_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Default value: <b>percentage</b>]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_initcmd" addon_id="Sedo_AdvBBcodeBar" version_id="1" version_string="3.01"><![CDATA[[LATEX BBcode] Mimetex Init Command]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_initcmd_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[If you want to apply a latex command to all your latex codes, insert it here. For example: <br />
+1) \reverse\opaque\large<br />
+2) \blue\Large<br />
+3) {\color{Blue} }<br />
+<br />
+Note: All Latex commands will not work here, only Mimextex commands will work.<br />
+(Default value is blank)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_link" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[LATEX BBcode] Mimetex url]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_link_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Enter the full path to the 'mimetex.cgi' script.  The default external URL will work but if you want to install mimetex on your server, please see here: <a href="http://www.forkosh.com" target="_blank">www.forkosh.com</a><br />
+(Default value: http://www.forkosh.com/mimetex.cgi)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_maxheight" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[[LATEX BBcode] Max Height Attribute]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_maxheight_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Latex box Max Height. Once reached, the latex box will use an overflow.<b>Unit is pixel</b>. Do not enter "px" !]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_maxwidth_percent" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[[LATEX BBcode] Max Width Attribute (%)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_maxwidth_percent_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Enter max width for the latex bbcode. Unit is <b>percentage</b>. Do not enter "%" !<br />(Default value: 90)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_maxwidth_px" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[[LATEX BBcode] Max Width Attribute (px)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_latex_maxwidth_px_explain" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Enter max width for the latex bbcode. Unit is <b>pixel</b>. Do not precise "px" !
+<br />(Default value: 800)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_autoplay_authorise" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[Slider] Authorise autoplay command?]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_autoplay_authorise_explain" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Uncheck this option if you want to prevent users to automatically start a slideshow.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_defaultheight" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[Slider] Default Height]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_defaultheight_explain" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Default height in pixels for the Slider Bb Code. Default value: <b>200</b>]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_defaultwidth" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[Slider] Default width]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_defaultwidth_explain" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Enter default width for Slider Bb Code. Default value is <b>400</b><br /><b>Unit is defined below</b>.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_defaultwidth_unit" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[Slider] Default Width Unit]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_defaultwidth_unit_explain" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Default value: <b>pixel</b>]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_interval_default" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[Slider] Default interval]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_interval_default_explain" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Default Slides Interval in milliseconds. Default value: <b>3000</b> (ms).]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_interval_max" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[Slider] Max interval]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_interval_max_explain" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Maximum Slides Interval in milliseconds. Default value: <b>30000</b> (ms).]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_interval_min" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[Slider] Min interval]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_interval_min_explain" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Minimum Slides Interval in milliseconds. Default value: <b>300</b> (ms).]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_maxheight" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[Slider] Max Height]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_maxheight_explain" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Max height in pixels for the Slider Bb Code. Default value: <b>700</b>]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_maxwidth" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[Slider] Max Width]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_maxwidth_explain" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Max width in pixels for Slider Bb Code. Default value: <b>860</b>]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_tag" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[[Slider] Tag]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_tag_explain" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[With TinyMCE Quattro the accordion, tabs and slider Bb Codes are using a same orphan button. If you have modified the tags of these Bb Codes you also need to modify the tags here. Default: <b>slider</b>.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_titles_raw" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[Slider] Raw titles]]></phrase>
+  <phrase title="option_AdvBBcodeBar_slider_titles_raw_explain" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Strip html from titles. Default: <b>no</b>.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_spoilerbb_easing_duration" addon_id="Sedo_AdvBBcodeBar" version_id="14" version_string="3.1.5"><![CDATA[[Spoilerbb] Easing duration]]></phrase>
+  <phrase title="option_AdvBBcodeBar_spoilerbb_easing_duration_explain" addon_id="Sedo_AdvBBcodeBar" version_id="14" version_string="3.1.5"><![CDATA[Easing effect duration. Default value: <b>400</b> (milliseconds)]]></phrase>
+  <phrase title="option_AdvBBcodeBar_spoilerbb_easing_effect" addon_id="Sedo_AdvBBcodeBar" version_id="14" version_string="3.1.5"><![CDATA[[Spoilerbb] Easing effect]]></phrase>
+  <phrase title="option_AdvBBcodeBar_spoilerbb_easing_effect_explain" addon_id="Sedo_AdvBBcodeBar" version_id="14" version_string="3.1.5"><![CDATA[Choose which easing effect to use with the slides. Here's a <a href="http://www.easings.net" target="_blank">website</a> which might help you to choose . Default value: <b>easeOutQuad</b>.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_default_width" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[Tabs BBcode] Default Width]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_default_width_explain" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Enter default width for Tabs bbcode. Default value is <b>400</b><br /><b>Unit is defined below</b>.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_defaultheight" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[Tabs BBcode] Default Height]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_defaultheight_explain" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Default height in pixels for the tabs Bb Code. Default value: <b>200</b>]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_defaultwidth_unit" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[Tabs BBcode] Default Width Unit]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_defaultwidth_unit_explain" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Default value: <b>pixel</b>]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_maxheight" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[Tabs BBcode] Max Height]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_maxheight_explain" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Max height in pixels for the tabs Bb Code. Default value: <b>600</b>]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_maxwidth" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[Tabs BBcode] Max Width]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_maxwidth_explain" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Max width in pixels for the tabs Bb Code. Default value: <b>750</b>]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_tag" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[[Tabs BBcode] Tag]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_tag_explain" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[With TinyMCE Quattro the accordion, tabs and slider Bb Codes are using a same orphan button. If you have modified the tags of these Bb Codes you also need to modify the tags here. Default: <b>tabs</b>.]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_titles_raw" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[Tabs BBcode] Raw titles]]></phrase>
+  <phrase title="option_AdvBBcodeBar_tabs_titles_raw_explain" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Strip html from titles. Default: <b>no</b>.]]></phrase>
+  <phrase title="option_group_AdvBBcodeBar" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[[Bb Codes & Buttons Manager] Advanced Bb Codes]]></phrase>
+  <phrase title="option_group_AdvBBcodeBar_description" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Options for the Advanced BBcodes Addon]]></phrase>
+  <phrase title="option_sedo_adv_noautoplay" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Autoplay slideshow?]]></phrase>
+  <phrase title="option_sedo_adv_noautoplay_explain" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Do you want to automatically start slideshow once page loaded? Activate this option is recommended to avoid a Picasa Slideshow problem which is to open the Picasa Album page when you press the start button. <b> Default: yes</b><br /> 
+<br />
+<span style="font-style:italic">Please note that this option won't solve this start button problem once the slideshow has no more image to display (once ended, the start button will be automatically displayed). No loop option is available.</span>]]></phrase>
+  <phrase title="option_sedo_adv_picasa_captions" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Picasa - Display captions?]]></phrase>
+  <phrase title="option_sedo_adv_picasa_captions_explain" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Display captions in slideshow? <b>Default: yes</b>]]></phrase>
+  <phrase title="option_sedo_adv_picasa_default_height" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Picasa default height]]></phrase>
+  <phrase title="option_sedo_adv_picasa_default_height_explain" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Default height of the Slideshow or Picasa image. <b>Default value: 400</b>]]></phrase>
+  <phrase title="option_sedo_adv_picasa_default_interval" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Picasa - Default Interval?]]></phrase>
+  <phrase title="option_sedo_adv_picasa_default_interval_explain" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[What is the default delay interval between images? <b>Default: Picasa default</b>]]></phrase>
+  <phrase title="option_sedo_adv_picasa_default_width" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Picasa default width]]></phrase>
+  <phrase title="option_sedo_adv_picasa_default_width_explain" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Default width of the Slideshow or Picasa image. <b>Default value: 600</b>]]></phrase>
+  <phrase title="option_sedo_adv_picasa_grabber" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Picasa Grabber RSS link Method]]></phrase>
+  <phrase title="option_sedo_adv_picasa_grabber_explain" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[The Picasa Slideshow is using the RSS link of an album to display its images. But most of the time users don't really know how to get this RSS link and just paste the album URL. This BB Code will automatically grab the RSS link looking inside the album html page <b>PROVIDING</b> your server can support it. <br /><br />
+There are two way of doing it. The normal PHP method is to use the function 'file_get_contents', but with Shared Hosting this function is often disabled or can't work because 'allow_url_fopen' is not allowed. You can use instead cURL method if this library is installed on your server. <br /><br />
+The above list will tell you which methods is supported by your server. If none of these two methods is available, you must choose 'Manual RSS Linking'. Your users will then have to enter themselves the direct RSS link. <b>Default value: 'Manual RSS Linking'</b>]]></phrase>
+  <phrase title="option_sedo_adv_picasa_lang" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Picasa - Language]]></phrase>
+  <phrase title="option_sedo_adv_picasa_lang_explain" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[The embed code has a language attribute, but it seems the Picassa Slideshow doesn't take it into account. <b>Default: en_US</b>]]></phrase>
+  <phrase title="option_sedo_adv_picasa_max_height" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Picasa max height]]></phrase>
+  <phrase title="option_sedo_adv_picasa_max_height_explain" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Max height of the Slideshow or Picasa image. If users specify the width/height in the tag options, which should be the Max height not to go over? If the specified width is above this limit, the default height will be apply.  <b>Default value: 533</b>]]></phrase>
+  <phrase title="option_sedo_adv_picasa_max_interval" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Picasa - Max Interval?]]></phrase>
+  <phrase title="option_sedo_adv_picasa_max_interval_explain" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[What is the maximum delay interval between images? <b>Default: 15 seconds</b>]]></phrase>
+  <phrase title="option_sedo_adv_picasa_max_width" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Picasa max width]]></phrase>
+  <phrase title="option_sedo_adv_picasa_max_width_explain" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Max width of the Slideshow or Picasa image. If users specify the width/height in the tag options, which should be the Max width not to go over? If the specified width is above this limit, the default width will be apply. <b>Default value: 800</b>]]></phrase>
+  <phrase title="option_sedo_adv_picasa_noperms_icon" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[Returns picasa icon if no view permission?]]></phrase>
+  <phrase title="option_sedo_adv_picasa_noperms_icon_explain" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[If users have no Bb Code view permissions, instead of returning a standard message you can choose to return a small Picasa icon. This icon will be linked to the url entered between the picasa tags (providing it's an url).]]></phrase>
+  <phrase title="option_sedo_adv_responsive_blockalign" addon_id="Sedo_AdvBBcodeBar" version_id="28" version_string="3.5.0 - step1"><![CDATA[Responsive mode - block align]]></phrase>
+  <phrase title="option_sedo_adv_responsive_blockalign_explain" addon_id="Sedo_AdvBBcodeBar" version_id="28" version_string="3.5.0 - step1"><![CDATA[Default value: center.]]></phrase>
+  <phrase title="option_sedo_adv_responsive_maxwidth" addon_id="Sedo_AdvBBcodeBar" version_id="28" version_string="3.5.0 - step1"><![CDATA[Responsive mode - max width]]></phrase>
+  <phrase title="option_sedo_adv_responsive_maxwidth_explain" addon_id="Sedo_AdvBBcodeBar" version_id="28" version_string="3.5.0 - step1"><![CDATA[This setting will not work with all Bb Codes. Some just need to have a width in % without any limit. Default is: 250px (this value shoud work with most of screens).]]></phrase>
+  <phrase title="option_sedo_bbm_adv_tinyquattro_menu_integration" addon_id="Sedo_AdvBBcodeBar" version_id="30" version_string="3.5.0.1"><![CDATA[TinyMCE Quattro Menu Integration]]></phrase>
+  <phrase title="option_sedo_bbm_adv_tinyquattro_menu_integration_explain" addon_id="Sedo_AdvBBcodeBar" version_id="30" version_string="3.5.0.1"><![CDATA[If you use the TinyMCE Quattro Menu feature, enable this option will create a new menu "Advanced insert".]]></phrase>
+  <phrase title="sedoAdbBB_Content" addon_id="Sedo_AdvBBcodeBar" version_id="3" version_string="3.03"><![CDATA[Contenu de la balise (optionnel)]]></phrase>
+  <phrase title="sedoAdbBB_Option" addon_id="Sedo_AdvBBcodeBar" version_id="3" version_string="3.03"><![CDATA[Option de la balise (Optionnel)]]></phrase>
+  <phrase title="sedoAdbBB_Order" addon_id="Sedo_AdvBBcodeBar" version_id="3" version_string="3.03"><![CDATA[Num.]]></phrase>
+  <phrase title="sedoAdbBB_Tag" addon_id="Sedo_AdvBBcodeBar" version_id="3" version_string="3.03"><![CDATA[Nom de balise]]></phrase>
+  <phrase title="sedoAdbBB_Title" addon_id="Sedo_AdvBBcodeBar" global_cache="1" version_id="3" version_string="3.03"><![CDATA[Description du boutton]]></phrase>
+  <phrase title="sedo_adv_bimg_after" addon_id="Sedo_AdvBBcodeBar" version_id="39" version_string="3.6.6"><![CDATA[Après]]></phrase>
+  <phrase title="sedo_adv_bimg_before" addon_id="Sedo_AdvBBcodeBar" version_id="39" version_string="3.6.6"><![CDATA[Avant]]></phrase>
+  <phrase title="sedo_adv_gdoc_invalid" addon_id="Sedo_AdvBBcodeBar" version_id="34" version_string="3.6.1"><![CDATA[Lien Google Doc incorrect]]></phrase>
+  <phrase title="sedo_adv_grabber_curl" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[cURL: [disponible]]]></phrase>
+  <phrase title="sedo_adv_grabber_fgc" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[file_get_contents: [disponible]]]></phrase>
+  <phrase title="sedo_adv_grabber_manual_rss" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Lien direct RSS]]></phrase>
+  <phrase title="sedo_adv_grabber_nocurl" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[cURL: [indisponible]]]></phrase>
+  <phrase title="sedo_adv_grabber_nofgc" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[file_get_contents: [indisponbile]]]></phrase>
+  <phrase title="sedo_adv_grabber_nofgc_auf" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[file_get_contents: [indisponible - allow_url_fopen non autorisé]]]></phrase>
+  <phrase title="sedo_adv_loading" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Chargement...]]></phrase>
+  <phrase title="sedo_adv_not_valid" addon_id="Sedo_AdvBBcodeBar" version_id="28" version_string="3.5.0 - step1"><![CDATA[Fichier joint invalide]]></phrase>
+  <phrase title="sedo_adv_picasa_10s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[10 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_11s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[11 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_12s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[12 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_13s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[13 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_14s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[14 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_15s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[15 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_1s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[1 seconde]]></phrase>
+  <phrase title="sedo_adv_picasa_2s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[2 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_3s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[3 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_4s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[4 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_5s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[5 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_6s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[6 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_7s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[7 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_8s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[8 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_9s" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[9 secondes]]></phrase>
+  <phrase title="sedo_adv_picasa_default" addon_id="Sedo_AdvBBcodeBar" version_id="17" version_string="3.2.1"><![CDATA[Picasa par défaut]]></phrase>
+  <phrase title="sedo_adv_picasa_error_dont_use_direct_link" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[Le lien utilisé est un lien direct vers un album Picasa, veuillez utiliser son lien direct RSS.]]></phrase>
+  <phrase title="sedo_adv_picasa_error_img_problem" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[Le lien d'image Picasa semble avoir des problèmes]]></phrase>
+  <phrase title="sedo_adv_picasa_error_not_picasa_url" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[Ce lien ne semble pas être un lien Picasa]]></phrase>
+  <phrase title="sedo_adv_picasa_error_not_url" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[Le contenu n'est pas une url]]></phrase>
+  <phrase title="sedo_adv_picasa_error_rss_not_found" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[Impossible de trouver un lien RSS]]></phrase>
+  <phrase title="sedo_adv_picasa_error_unknown" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[Erreur inconnue]]></phrase>
+  <phrase title="sedo_adv_picasa_error_use_picasa_url" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[Vous êtes sensé utiliser un lien Picasa avec ce Bb Code et plus précisément un lien RSS d'album.]]></phrase>
+  <phrase title="sedo_adv_picasa_logo_text" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[Lien Picasa]]></phrase>
+  <phrase title="sedo_adv_picasa_noperms" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[Vous n'êtes pas autorisé à voir ce contenu Picasa]]></phrase>
+  <phrase title="sedo_adv_slider_img_noperms" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Vous n'êtes pas autorisé à voir cette image]]></phrase>
+  <phrase title="sedo_advbb_bimg_attach" addon_id="Sedo_AdvBBcodeBar" version_id="25" version_string="3.4.0"><![CDATA[Fichiers joints]]></phrase>
+  <phrase title="sedo_advbb_bimg_caption" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Options de légende]]></phrase>
+  <phrase title="sedo_advbb_bimg_extra" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[ + ]]></phrase>
+  <phrase title="sedo_advbb_bimg_general" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Options d'Image]]></phrase>
+  <phrase title="sedo_advbb_latex_general" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Contenu Latex]]></phrase>
+  <phrase title="sedo_advbb_latex_help" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Aide Latex]]></phrase>
+  <phrase title="sedo_advbb_slides_builder" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Diapos]]></phrase>
+  <phrase title="sedo_advbb_slides_configuration" addon_id="Sedo_AdvBBcodeBar" version_id="23" version_string="3.3.3 - Beta 3"><![CDATA[Configuration]]></phrase>
+  <phrase title="sedo_bbm_adv_advanced_insert" addon_id="Sedo_AdvBBcodeBar" version_id="30" version_string="3.5.0.1"><![CDATA[Insertions avancées]]></phrase>
+  <phrase title="sedo_bbm_adv_bimg_move_js_bbcode_load" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[Chargé avec le Bb Code (défaut)]]></phrase>
+  <phrase title="sedo_bbm_adv_bimg_move_js_do_not_load" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[Ne pas chargé le script]]></phrase>
+  <phrase title="sedo_bbm_adv_bimg_move_js_header_load" addon_id="Sedo_AdvBBcodeBar" version_id="33" version_string="3.6.0"><![CDATA[Chargé dans l'en-tête]]></phrase>
+  <phrase title="sedo_bbm_adv_tags_helper" addon_id="Sedo_AdvBBcodeBar" version_id="30" version_string="3.5.0.1"><![CDATA[Aides des balises]]></phrase>
+  <phrase title="style_property_adv_bimg_caption_all_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[]]></phrase>
+  <phrase title="style_property_adv_bimg_caption_all_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[[BIMG] Caption]]></phrase>
+  <phrase title="style_property_adv_bimg_caption_background_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[]]></phrase>
+  <phrase title="style_property_adv_bimg_caption_background_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[[BIMG]  Caption (inside picture) background color]]></phrase>
+  <phrase title="style_property_adv_bimg_caption_text_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[]]></phrase>
+  <phrase title="style_property_adv_bimg_caption_text_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[[BIMG] Caption (inside picture) text color]]></phrase>
+  <phrase title="style_property_adv_bimg_diff_cursor_color_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="32" version_string="3.5.2"><![CDATA[]]></phrase>
+  <phrase title="style_property_adv_bimg_diff_cursor_color_master" addon_id="Sedo_AdvBBcodeBar" version_id="32" version_string="3.5.2"><![CDATA[[BIMG] Diff mode - cursor color]]></phrase>
+  <phrase title="style_property_adv_highlight_normal_tags_close_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[Highlight all normal tags [tag]...[/tag]. Example: [article]content[/article] or [article=option1]content[/article]]]></phrase>
+  <phrase title="style_property_adv_highlight_normal_tags_close_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[Normal Tags Highlighting [CLOSE]]]></phrase>
+  <phrase title="style_property_adv_highlight_normal_tags_open_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[Highlight all normal tags [tag]...[/tag]. Example: [article]content[/article] or [article=option1]content[/article]]]></phrase>
+  <phrase title="style_property_adv_highlight_normal_tags_open_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[Normal Tags Highlighting [OPEN]]]></phrase>
+  <phrase title="style_property_adv_highlight_normal_tags_options_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="7" version_string="3.1 Pre-release #2"><![CDATA[Highlight options of [tag=OPTIONS]...[/tag]]]></phrase>
+  <phrase title="style_property_adv_highlight_normal_tags_options_master" addon_id="Sedo_AdvBBcodeBar" version_id="7" version_string="3.1 Pre-release #2"><![CDATA[Normal Tags Highlighting [OPTIONS]]]></phrase>
+  <phrase title="style_property_adv_highlight_special_tags_close_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[Highlight all {tag}...{/tags} in bbcode options. For example: <br />
+[article={b}Title{/b}]content[/article]]]></phrase>
+  <phrase title="style_property_adv_highlight_special_tags_close_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[Special Tags Highlighting [CLOSE]]]></phrase>
+  <phrase title="style_property_adv_highlight_special_tags_content_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[Highlight content of {tag}...{/tags}]]></phrase>
+  <phrase title="style_property_adv_highlight_special_tags_content_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[Special Tags Highlighting [CONTENT]]]></phrase>
+  <phrase title="style_property_adv_highlight_special_tags_open_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[Highlight all {tag}...{/tags} in bbcode options. For example: <br />
+[article={b}Title{/b}]content[/article]]]></phrase>
+  <phrase title="style_property_adv_highlight_special_tags_open_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[Special Tags Highlighting [OPEN]]]></phrase>
+  <phrase title="style_property_adv_highlight_tag_options_separator_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="7" version_string="3.1 Pre-release #2"><![CDATA[[tag=100|The previous sign was a separator]content[/tag]. Note: for the picasa bbcode, the separator will be a coma.]]></phrase>
+  <phrase title="style_property_adv_highlight_tag_options_separator_master" addon_id="Sedo_AdvBBcodeBar" version_id="7" version_string="3.1 Pre-release #2"><![CDATA[Tag options separator]]></phrase>
+  <phrase title="style_property_adv_template_accordion_height_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Change this value only if you get problems with your style. Default value: 248px]]></phrase>
+  <phrase title="style_property_adv_template_accordion_height_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Accordion popup height]]></phrase>
+  <phrase title="style_property_adv_template_article_height_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Change this value only if you get problems with your style. Default value: 252px]]></phrase>
+  <phrase title="style_property_adv_template_article_height_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Article popup height]]></phrase>
+  <phrase title="style_property_adv_template_bimg_height_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Change this value only if you get problems with your style. Default value: 210px]]></phrase>
+  <phrase title="style_property_adv_template_bimg_height_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Bimg popup height]]></phrase>
+  <phrase title="style_property_adv_template_enc_height_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Change this value only if you get problems with your style. Default value: 252px]]></phrase>
+  <phrase title="style_property_adv_template_enc_height_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Encadre popup height]]></phrase>
+  <phrase title="style_property_adv_template_fieldset_height_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Change this value only if you get problems with your style. Default value: 252px]]></phrase>
+  <phrase title="style_property_adv_template_fieldset_height_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Fieldset popup height]]></phrase>
+  <phrase title="style_property_adv_template_latex_height_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Change this value only if you get problems with your style. Default value: 223px]]></phrase>
+  <phrase title="style_property_adv_template_latex_height_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.1"><![CDATA[Latex popup height]]></phrase>
+  <phrase title="style_property_adv_template_normaltitlefield_width_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Do not change this value, except if you're using a translation of this addon and you're having display problems with the 'Title' field (normal state). Default value: 35px.]]></phrase>
+  <phrase title="style_property_adv_template_normaltitlefield_width_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Editor Pop-up Normal 'Title' field width]]></phrase>
+  <phrase title="style_property_adv_template_stretchedtitlefield_width_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Do not change this value, except if you're using a translation of this addon and you're having display problems once the 'Title' field is stretched.
+Default value: 320px.]]></phrase>
+  <phrase title="style_property_adv_template_stretchedtitlefield_width_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Editor Pop-up Stretched 'Title' field width]]></phrase>
+  <phrase title="style_property_adv_template_urlfield_width_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Do not change this value, except if you're using a translation of this addon and you're having display problems with the 'Url' field.
+Default value: 300px.]]></phrase>
+  <phrase title="style_property_adv_template_urlfield_width_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Editor Pop-up 'Url' field width]]></phrase>
+  <phrase title="style_property_adv_template_widthfield_width_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Do not change this value, except if you're using a translation of this addon and you're having display problems with the 'Width' field.
+Default value: 35px.]]></phrase>
+  <phrase title="style_property_adv_template_widthfield_width_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[Editor Pop-up 'Width' field width]]></phrase>
+  <phrase title="style_property_advbbcodebar_accordion_content_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_accordion_content_master" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[ACCORDION] Main Content]]></phrase>
+  <phrase title="style_property_advbbcodebar_accordion_title_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_accordion_title_hover_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_accordion_title_hover_master" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[ACCORDION] Title hover]]></phrase>
+  <phrase title="style_property_advbbcodebar_accordion_title_master" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[ACCORDION] Title]]></phrase>
+  <phrase title="style_property_advbbcodebar_accordion_wrapper_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_accordion_wrapper_master" addon_id="Sedo_AdvBBcodeBar" version_id="5" version_string="3.1"><![CDATA[[ACCORDION] Container]]></phrase>
+  <phrase title="style_property_advbbcodebar_article_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_article_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[ARTICLE] Main Content]]></phrase>
+  <phrase title="style_property_advbbcodebar_article_source_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_article_source_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[[ARTICLE] Source]]></phrase>
+  <phrase title="style_property_advbbcodebar_article_title_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_article_title_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[ARTICLE] Title]]></phrase>
+  <phrase title="style_property_advbbcodebar_article_wrapper_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_article_wrapper_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[ARTICLE] Container]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[ENCADRE] Main Content]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_skin2_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_skin2_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[[ENCADRE] Main Content (skin2)]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_title_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_title_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[ENCADRE] Title]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_title_skin2_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_title_skin2_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[[ENCADRE] Title (skin2)]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_wrapper_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_wrapper_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[ENCADRE] Container]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_wrapper_skin2_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_encadre_wrapper_skin2_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[[ENCADRE] Container (skin2)]]></phrase>
+  <phrase title="style_property_advbbcodebar_fieldset_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_fieldset_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[FIELDSET] Main Content]]></phrase>
+  <phrase title="style_property_advbbcodebar_fieldset_title_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_fieldset_title_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[FIELDSET] Title]]></phrase>
+  <phrase title="style_property_advbbcodebar_fieldset_wrapper_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_fieldset_wrapper_master" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string=""><![CDATA[[FIELDSET] Container]]></phrase>
+  <phrase title="style_property_advbbcodebar_latex_container_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_latex_container_master" addon_id="Sedo_AdvBBcodeBar" version_id="6" version_string="3.2"><![CDATA[[LATEX] Container]]></phrase>
+  <phrase title="style_property_advbbcodebar_latex_img_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="1" version_string="3.01"><![CDATA[If you use the '\reverse' Mimetex Latex command, you might need to set a border here.]]></phrase>
+  <phrase title="style_property_advbbcodebar_latex_img_master" addon_id="Sedo_AdvBBcodeBar" version_id="1" version_string="3.01"><![CDATA[[LATEX] Img]]></phrase>
+  <phrase title="style_property_advbbcodebar_picasa_background_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_picasa_background_master" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[[Picasa] Slideshow Background]]></phrase>
+  <phrase title="style_property_advbbcodebar_picasa_container_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_picasa_container_master" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[[PICASA] Slideshow Container]]></phrase>
+  <phrase title="style_property_advbbcodebar_picasa_image_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_picasa_image_master" addon_id="Sedo_AdvBBcodeBar" version_id="18" version_string="3.3"><![CDATA[[PICASA] Image]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_container_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[P.S: The "inner" layout (when the buttons are all inside the slider) has its own padding]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_container_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[SLIDER] Container]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_nav_buttons_active_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_nav_buttons_active_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[SLIDER] Navig buttons - active]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_nav_buttons_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_nav_buttons_hover_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_nav_buttons_hover_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[SLIDER] Navig buttons - hover]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_nav_buttons_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[SLIDER] Navig buttons]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_slides_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_slides_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[SLIDER] Slides]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_slides_title_abs_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[This title layout is triggered with the "top" or "bottom" commands ("slide" slave tag)]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_slides_title_abs_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[SLIDER] Slides Title - Absolute]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_slides_title_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_slides_title_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[SLIDER] Slides Title]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_tabs_active_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Configure only the font color here, this would avoid to break any layouts.]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_tabs_active_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[SLIDER] Tabs - active]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_tabs_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Configure only the font color here, this would avoid to break any layouts.]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_tabs_hover_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[Configure only the font color here, this would avoid to break any layouts.]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_tabs_hover_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[SLIDER] Tabs - hover]]></phrase>
+  <phrase title="style_property_advbbcodebar_slider_tabs_master" addon_id="Sedo_AdvBBcodeBar" version_id="20" version_string="3.3.2"><![CDATA[[SLIDER] Tabs (below the slider)]]></phrase>
+  <phrase title="style_property_advbbcodebar_tabs_container_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_tabs_container_master" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[TABS] Container]]></phrase>
+  <phrase title="style_property_advbbcodebar_tabs_content_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_tabs_content_master" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[TABS] Content]]></phrase>
+  <phrase title="style_property_advbbcodebar_tabs_title_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_tabs_title_hoveractive_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[]]></phrase>
+  <phrase title="style_property_advbbcodebar_tabs_title_hoveractive_master" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[TABS] Title (hover/active)]]></phrase>
+  <phrase title="style_property_advbbcodebar_tabs_title_master" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[TABS] Title]]></phrase>
+  <phrase title="style_property_group_AdvBBcodeBar_Style_2_master" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[Bb Codes & Buttons Manager] Advanced Bb Codes (2/2)]]></phrase>
+  <phrase title="style_property_group_AdvBBcodeBar_Style_2_master_desc" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[Advanced BBcodes Toolbar Visual Options]]></phrase>
+  <phrase title="style_property_group_AdvBBcodeBar_Style_master" addon_id="Sedo_AdvBBcodeBar" version_id="19" version_string="3.3.1"><![CDATA[[Bb Codes & Buttons Manager] Advanced Bb Codes (1/2)]]></phrase>
+  <phrase title="style_property_group_AdvBBcodeBar_Style_master_desc" addon_id="Sedo_AdvBBcodeBar" version_id="0" version_string="3.0"><![CDATA[Advanced BBcodes Toolbar Visual Options]]></phrase>
+  <phrase title="style_property_sedo_bbm_btn_modf_col1_description_master" addon_id="Sedo_AdvBBcodeBar" version_id="28" version_string="3.5.0 - step1"><![CDATA[]]></phrase>
+  <phrase title="style_property_sedo_bbm_btn_modf_col1_master" addon_id="Sedo_AdvBBcodeBar" version_id="28" version_string="3.5.0 - step1"><![CDATA[Modele F - Gradient color (1)]]></phrase>
+</language>
